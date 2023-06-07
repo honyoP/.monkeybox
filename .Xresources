@@ -1,4 +1,4 @@
-*.font: xft:ttf-hack:size=12
+xterm*font: xft:ttf-hack:size=12
 
 XTerm.termName: xterm-256color
 
